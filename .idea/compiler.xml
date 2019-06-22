@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hf_itheima_cloud_api" />
+        <module name="hf_itheima_cloud_consumer" />
+        <module name="hf_itheima_cloud_eureka" />
+        <module name="hf_itheima_cloud_euteka3" />
+        <module name="hf_itheima_cloud_eutrka2" />
+        <module name="hf_itheima_cloud_provider" />
+        <module name="hf_itheima_cloud_provider8002" />
+        <module name="hf_itheima_cloud_provider8003" />
+        <module name="hfitheimacloudprovider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hf_itheima_cloud" target="1.8" />
+      <module name="hf_itheima_cloud_api" target="1.8" />
+      <module name="hf_itheima_cloud_consumer" target="1.8" />
+      <module name="hf_itheima_cloud_eureka" target="1.8" />
+      <module name="hf_itheima_cloud_euteka3" target="1.8" />
+      <module name="hf_itheima_cloud_eutrka2" target="1.8" />
+      <module name="hf_itheima_cloud_provider" target="1.8" />
+      <module name="hf_itheima_cloud_provider8002" target="1.8" />
+      <module name="hf_itheima_cloud_provider8003" target="1.8" />
+      <module name="hfitheimacloudprovider" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
